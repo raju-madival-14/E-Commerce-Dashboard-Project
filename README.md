@@ -5,7 +5,7 @@ This project is an **E-Commerce Performance Dashboard** built using **Microsoft 
 It provides clear insights into business performance and helps stakeholders make **data-driven decisions**.
 
 ## 📊 Dashboard Preview
-![E-Commerce Dashboard] (https://drive.google.com/file/d/1hCDAu-qHpAZVJed0Q_bxNe3CpZNKsNeB/view?usp=drive_link)
+[E-Commerce Dashboard] (https://drive.google.com/file/d/1hCDAu-qHpAZVJed0Q_bxNe3CpZNKsNeB/view?usp=drive_link)
 
 ## ⚙️ Tools & Techniques Used
 - **Microsoft Excel**
@@ -51,8 +51,6 @@ This dashboard is designed to:
 - Help businesses track **KPIs** like revenue, profit, and customer behavior.
 - Identify **high-performing products**, payment modes, and customer segments.
 - Improve decision-making by visualizing performance trends.
-
----
 
 ## 👨‍💻 Author
 **A Raja**  
