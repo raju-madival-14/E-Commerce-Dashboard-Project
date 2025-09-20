@@ -33,7 +33,7 @@ It provides clear insights into business performance and helps stakeholders make
 
 ## 📂 Files Included
 - **E_Commerce_Performance_Dashboard.xlsx** → Main project file containing the dashboard.
-- **Dataset.xlsx** → Source data used to create the dashboard.
+- **project_data_set.xlsx** → Source data used to create the dashboard.
 - **Screenshot.png** → Dashboard preview image.
 - **README.md** → Documentation for the project.
 
