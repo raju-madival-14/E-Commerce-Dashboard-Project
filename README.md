@@ -36,6 +36,8 @@ It provides clear insights into business performance and helps stakeholders make
 - **project_data_set.xlsx** → Source data used to create the dashboard.
 - **Screenshot.png** → Dashboard preview image.
 - **README.md** → Documentation for the project.
+- **Data_modeling_screenshot** - snapshoot of data modeling
+- **screen_recording** - to show dymanicity of the visuals
 
 ## 📝 How to Use
 1. **Download** the Excel file from this repository.
